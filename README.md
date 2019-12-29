@@ -8,4 +8,12 @@ Versions with which it was created:
 - Grav: 1.6.19
 - DevTools: 1.2.4
 
+## How to Use
+With the name of the new theme:
+- Update blueprints.yaml
+- Rename grav-starter-theme.php
+- Rename grav-starter-theme.yaml
+
+
+
 
