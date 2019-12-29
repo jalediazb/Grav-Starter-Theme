@@ -5,11 +5,11 @@ icon: rebel
 author:
   name: Grav
   email: 
-homepage: https://github.com/alejandro/grav-theme-grav-starter-theme
+homepage: https://github.com/jalediazb/Grav-Starter-Theme
 demo: 
 keywords: grav, theme, etc
 bugs: 
-readme: https://github.com/alejandro/grav-theme-grav-starter-theme/blob/develop/README.md
+readme: https://github.com/jalediazb/Grav-Starter-Theme/blob/master/README.md
 license: MIT
 
 form:
